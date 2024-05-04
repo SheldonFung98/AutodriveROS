@@ -1,0 +1,21 @@
+[submodule "AprilTagNav"]
+	path = AprilTagNav
+	url = https://github.com/SheldonFung98/AprilTagNav
+[submodule "ObstacleDet"]
+	path = ObstacleDet
+	url = https://github.com/SheldonFung98/ObstacleDet
+[submodule "ParkingSlotDet"]
+	path = ParkingSlotDet
+	url = https://github.com/SheldonFung98/ParkingSlotDet
+[submodule "RoadSideTrack"]
+	path = RoadSideTrack
+	url = https://github.com/SheldonFung98/RoadSideTrack
+[submodule "RoadSideTrack-PyTorch"]
+	path = RoadSideTrack-PyTorch
+	url = https://github.com/SheldonFung98/RoadSideTrack-PyTorch
+[submodule "RTSP2ROS"]
+	path = RTSP2ROS
+	url = https://github.com/SheldonFung98/RTSP2ROS
+[submodule "WallStalker-Lidar"]
+	path = WallStalker-Lidar
+	url = https://github.com/SheldonFung98/WallStalker-Lidar
